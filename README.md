@@ -30,8 +30,6 @@ The current prototype uses PentAGI as an agent framework rather than building a 
 
 **Output:** A saved agent trajectory consisting of chat logs, tool calls, terminal output, and task progress.
 
-This demonstrates the core workflow for collecting possible post-training data. The model did not independently complete the Meow challenge during the initial exploratory run; it required a human hint to pursue the intended credential-based solution.
-
 ## Technologies
 
 - PentAGI agent framework
